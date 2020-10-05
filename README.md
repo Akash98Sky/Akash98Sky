@@ -42,6 +42,4 @@
 <br/>
 
 ---
-![codeSTACKr's Github Stats](https://github-readme-stats.vercel.app/api?username=trevorwang&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trevorwang&show_icons=true)
+![Akash's Github Stats](https://github-readme-stats.vercel.app/api?username=Akash98Sky&show_icons=true&theme=radical)  ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash98Sky&show_icons=true&layout=compact&langs_count=8&theme=radical&exclude_repo=android_kernel_leeco_msm8976,android_device_leeco_s2,proprietary_vendor_leeco,twrp_device_leeco_s2,device_leeco_s2-P,device_leeco_s2-O)
