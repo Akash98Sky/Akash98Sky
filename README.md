@@ -1,17 +1,23 @@
-### Hi there, I'm Akash 👋
+<h1 align="center">Hi there, I'm Akash 👋</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash98Sky" alt="Akash98Sky" /> </p>
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
 - 🌱 I’m currently learning  [React](https://reactjs.org/) with [Redux](https://redux.js.org/).
 - 👯 I’m looking to collaborate on [Flutter](https://flutter.dev/), [Dart](https://dart.dev/) and [Node.js](https://nodejs.org/).
 - 🤔 I’m looking for help with ML.
 - 💬 Ask me about anything related to programming.
-- 📫 How to reach me: [Telegram](https://t.me/Akash98Sky) | [Linkedin](https://www.linkedin.com/in/akash-mondal-a16101173?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvcxvAt8iR%2BWGB2SbC5FQyg%3D%3D) | [Email](mailto:a98mondal@gmail.com).
-- 😄 Pronouns: Happy Coding
-- ⚡ Fun fact: fun coding()
+
+
+### Connect with me:
+
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Akash98Sky" width="26px" style="{fill: green;}" />](https://t.me/Akash98Sky)
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akash-mondal-a16101173" width="26px" />](https://www.linkedin.com/in/akash-mondal-a16101173)
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="a98mondal" width="26px" />](mailto:a98mondal@gmail.com)
+<br/>
 
 
 ### Languages and Tools:
-
 
 <img align="left" alt="dart" width="26px" src="https://github.com/github/explore/raw/master/topics/dart/dart.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />
