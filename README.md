@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash98Sky" alt="Akash98Sky" /> </p>
 
-- 🔭 I’m currently working on [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
-- 🌱 I’m currently learning  [React](https://reactjs.org/) with [Redux](https://redux.js.org/).
-- 👯 I’m looking to collaborate on [Flutter](https://flutter.dev/), [Dart](https://dart.dev/) and [Node.js](https://nodejs.org/).
+- 🔭 I’m currently working on [.NET](https://learn.microsoft.com/en-us/dotnet/core/introduction) and [Angular](https://angular.io/).
+- 🌱 I’m currently learning  ML using [Python](https://www.python.org/).
+- 👯 I’m looking to collaborate on [Flutter](https://flutter.dev/), [React](https://reactjs.org) and [Node.js](https://nodejs.org/).
 - 🤔 I’m looking for help with ML.
 - 💬 Ask me about anything related to programming.
 
