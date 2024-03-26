@@ -1,11 +1,18 @@
 <h1 align="center">Hi there, I'm Akash 👋</h1>
 
+### :zap: Recent Activity:
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash98Sky" alt="Akash98Sky" /> </p>
 
 - 🔭 I’m currently working on [.NET](https://learn.microsoft.com/en-us/dotnet/core/introduction) and [Angular](https://angular.io/).
-- 🌱 I’m currently learning  ML using [Python](https://www.python.org/).
+- 🌱 I’m currently learning ML using [Python](https://www.python.org/).
 - 👯 I’m looking to collaborate on [Flutter](https://flutter.dev/), [React](https://reactjs.org) and [Node.js](https://nodejs.org/).
-- 🤔 I’m looking for help with ML.
 - 💬 Ask me about anything related to programming.
 
 
