@@ -2,14 +2,14 @@
 
 ### :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 5th, 2024, 12:15:50 PM
+Last Updated: Saturday, April 6th, 2024, 12:40:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nextui-org/nextui](https://github.com/nextui-org/nextui)<br>
-2. ⭐ Starred [ByteGrad/portfolio-website](https://github.com/ByteGrad/portfolio-website)<br>
-3. ⭐ Starred [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio)<br>
-4. ⬆️ Pushed 1 commit(s) to [Akash98Sky/Akash98Sky](https://github.com/Akash98Sky/Akash98Sky)<br>
-5. ⭐ Starred [juspay/hyperswitch](https://github.com/juspay/hyperswitch)<br>
+1. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+2. ⭐ Starred [nextui-org/nextui](https://github.com/nextui-org/nextui)<br>
+3. ⭐ Starred [ByteGrad/portfolio-website](https://github.com/ByteGrad/portfolio-website)<br>
+4. ⭐ Starred [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio)<br>
+5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/Akash98Sky](https://github.com/Akash98Sky/Akash98Sky)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
