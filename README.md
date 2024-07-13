@@ -2,13 +2,13 @@
 
 ### :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 13th, 2024, 12:48:50 AM
+Last Updated: Saturday, July 13th, 2024, 12:17:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Akash98Sky/zomauto](https://github.com/Akash98Sky/zomauto)<br>
-2. ⬆️ Pushed 1 commit(s) to [Akash98Sky/zomauto](https://github.com/Akash98Sky/zomauto)<br>
-3. ⬆️ Pushed 1 commit(s) to [Akash98Sky/zomauto](https://github.com/Akash98Sky/zomauto)<br>
-4. ❗️ Opened issue [#1](https://github.com/Soujannya16/Multi-select-search-react/issues/1) in [Soujannya16/Multi-select-search-react](https://github.com/Soujannya16/Multi-select-search-react)<br>
+1. ⬆️ Pushed 5 commit(s) to [Akash98Sky/zomauto](https://github.com/Akash98Sky/zomauto)<br>
+2. 🎉 Merged PR [#1](https://github.com/Akash98Sky/zomauto/pull/1) in [Akash98Sky/zomauto](https://github.com/Akash98Sky/zomauto)<br>
+3. 💪 Opened PR [#1](https://github.com/Akash98Sky/zomauto/pull/1) in [Akash98Sky/zomauto](https://github.com/Akash98Sky/zomauto)<br>
+4. ⬆️ Pushed 1 commit(s) to [Akash98Sky/zomauto](https://github.com/Akash98Sky/zomauto)<br>
 5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/zomauto](https://github.com/Akash98Sky/zomauto)<br>
 <!--RECENT_ACTIVITY:end-->
 
