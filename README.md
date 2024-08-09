@@ -2,14 +2,14 @@
 
 ### :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 8th, 2024, 12:19:36 PM
+Last Updated: Friday, August 9th, 2024, 12:51:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
 2. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
-3. ⭐ Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
-4. ⭐ Starred [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)<br>
-5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/SkyPriceTrackerBot](https://github.com/Akash98Sky/SkyPriceTrackerBot)<br>
+3. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
+4. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
+5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
