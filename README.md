@@ -2,10 +2,10 @@
 
 ### :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 28th, 2024, 12:21:14 PM
+Last Updated: Thursday, August 29th, 2024, 12:52:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
+1. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<br>
 2. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
 3. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
 4. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
