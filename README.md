@@ -2,13 +2,13 @@
 
 ### :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 16th, 2024, 12:56:57 AM
+Last Updated: Monday, September 16th, 2024, 12:22:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<br>
-2. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
-3. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
-4. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
+1. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+2. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+3. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+4. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)<br>
 5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/latex-cv-gen](https://github.com/Akash98Sky/latex-cv-gen)<br>
 <!--RECENT_ACTIVITY:end-->
 
