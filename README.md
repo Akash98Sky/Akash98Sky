@@ -2,14 +2,10 @@
 
 ### :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 3rd, 2024, 12:24:13 PM
+Last Updated: Wednesday, December 4th, 2024, 1:02:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
-2. ⬆️ Pushed 3357 commit(s) to [Akash98Sky/umami](https://github.com/Akash98Sky/umami)<br>
-3. 🎉 Merged PR [#1](https://github.com/Akash98Sky/umami/pull/1) in [Akash98Sky/umami](https://github.com/Akash98Sky/umami)<br>
-4. 💪 Opened PR [#1](https://github.com/Akash98Sky/umami/pull/1) in [Akash98Sky/umami](https://github.com/Akash98Sky/umami)<br>
-5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/zomauto](https://github.com/Akash98Sky/zomauto)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
