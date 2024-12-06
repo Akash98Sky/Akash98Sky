@@ -2,14 +2,14 @@
 
 ### :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 5th, 2024, 12:24:49 PM
+Last Updated: Friday, December 6th, 2024, 1:01:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
-2. ⬆️ Pushed 3357 commit(s) to [Akash98Sky/umami](https://github.com/Akash98Sky/umami)<br>
-3. 🎉 Merged PR [#1](https://github.com/Akash98Sky/umami/pull/1) in [Akash98Sky/umami](https://github.com/Akash98Sky/umami)<br>
-4. 💪 Opened PR [#1](https://github.com/Akash98Sky/umami/pull/1) in [Akash98Sky/umami](https://github.com/Akash98Sky/umami)<br>
-5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/zomauto](https://github.com/Akash98Sky/zomauto)<br>
+1. ⭐ Starred [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse)<br>
+2. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
+3. ⬆️ Pushed 3357 commit(s) to [Akash98Sky/umami](https://github.com/Akash98Sky/umami)<br>
+4. 🎉 Merged PR [#1](https://github.com/Akash98Sky/umami/pull/1) in [Akash98Sky/umami](https://github.com/Akash98Sky/umami)<br>
+5. 💪 Opened PR [#1](https://github.com/Akash98Sky/umami/pull/1) in [Akash98Sky/umami](https://github.com/Akash98Sky/umami)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
