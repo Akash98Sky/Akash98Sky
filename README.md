@@ -2,13 +2,14 @@
 
 ### :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 6th, 2025, 12:23:10 PM
+Last Updated: Tuesday, January 7th, 2025, 12:57:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)<br>
-2. ⭐ Starred [microsoft/autogen](https://github.com/microsoft/autogen)<br>
-3. ⭐ Starred [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse)<br>
-4. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
+1. ⬆️ Pushed 3 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+2. 🎉 Merged PR [#19](https://github.com/Akash98Sky/gemi-bot/pull/19) in [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+3. 💪 Opened PR [#19](https://github.com/Akash98Sky/gemi-bot/pull/19) in [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+4. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
