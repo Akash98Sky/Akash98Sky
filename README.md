@@ -2,14 +2,14 @@
 
 ### :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 7th, 2025, 12:22:52 PM
+Last Updated: Wednesday, January 8th, 2025, 12:57:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
-2. 🎉 Merged PR [#19](https://github.com/Akash98Sky/gemi-bot/pull/19) in [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
-3. 💪 Opened PR [#19](https://github.com/Akash98Sky/gemi-bot/pull/19) in [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+1. ⬆️ Pushed 2 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+2. 🎉 Merged PR [#20](https://github.com/Akash98Sky/gemi-bot/pull/20) in [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+3. 💪 Opened PR [#20](https://github.com/Akash98Sky/gemi-bot/pull/20) in [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
 4. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
-5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+5. ✔️ Closed issue [#8](https://github.com/Akash98Sky/gemi-bot/issues/8) in [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
