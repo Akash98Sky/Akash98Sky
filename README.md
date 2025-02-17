@@ -19,9 +19,9 @@ Last Updated: Monday, February 17th, 2025, 12:23:26 PM
 
 ### Connect with me:
 
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Akash98Sky" width="26px" style="{fill: green;}" />](https://t.me/Akash98Sky)
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akash-mondal-a16101173" width="26px" />](https://www.linkedin.com/in/akash-mondal-a16101173)
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="a98mondal" width="26px" />](mailto:a98mondal@gmail.com)
+[<img align="left" src="https://static.cdnlogo.com/logos/t/84/telegram.svg" alt="Akash98Sky" width="26px" style="{fill: green;}" />](https://t.me/Akash98Sky)
+[<img align="left" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="akash-mondal-se" width="26px" />](https://www.linkedin.com/in/akash-mondal-se)
+[<img align="left" src="https://www.svgrepo.com/download/217146/gmail.svg" alt="a98mondal" width="26px" />](mailto:a98mondal@gmail.com)
 <br/>
 
 
