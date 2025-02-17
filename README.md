@@ -27,30 +27,26 @@ Last Updated: Monday, February 17th, 2025, 12:23:26 PM
 
 ### Languages and Tools:
 
-<img align="left" alt="dart" width="26px" src="https://github.com/github/explore/raw/main/topics/dart/dart.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" />
+<img align="left" alt="python" width="26px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
+<img align="left" alt="dart" width="26px" src="https://github.com/github/explore/raw/main/topics/dart/dart.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" />
-<img align="left" alt="Java" width="26px" src="https://github.com/github/explore/raw/main/topics/java/java.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/raw/main/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/github/explore/raw/main/topics/css/css.png" />
-<img align="left" alt="sql" width="26px" src="https://github.com/github/explore/raw/main/topics/sql/sql.png" />
-<img align="left" alt="python" width="26px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
 
-<img align="left" alt="Android" width="26px" src="https://github.com/github/explore/raw/main/topics/android/android.png"/>
 <img align="left" alt="Flutter" width="26px" src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" />
+<img align="left" alt="Flutter" width="26px" src="https://github.com/github/explore/raw/main/topics/react/react.png"/>
+<img align="left" alt="Flutter" width="26px" src="https://github.com/github/explore/raw/main/topics/angular/angular.png"/>
 
-<img align="left" alt="MySQL" width="26px" src="https://github.com/github/explore/raw/main/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/github/explore/raw/main/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/github/explore/raw/main/topics/git/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://github.com/github/explore/raw/main/topics/github/github.png" />
-<img align="left" alt="Heroku" width="26px" src="https://github.com/github/explore/raw/main/topics/heroku/heroku.png" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/github/explore/raw/main/topics/firebase/firebase.png" />
+<img align="left" alt="Firebase" width="26px" src="https://github.com/github/explore/raw/main/topics/azure/azure.png" />
+<img align="left" alt="Firebase" width="26px" src="https://github.com/github/explore/raw/main/topics/aws/aws.png" />
 
 <img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/raw/main/topics/linux/linux.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" />
 
 <br/>
 <br/>
