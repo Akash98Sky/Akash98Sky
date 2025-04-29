@@ -2,12 +2,10 @@
 
 ### :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 28th, 2025, 12:25:37 PM
+Last Updated: Tuesday, April 29th, 2025, 1:03:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise)<br>
-2. ⬆️ Pushed 1 commit(s) to [Soujannya16/MyPortfolio](https://github.com/Soujannya16/MyPortfolio)<br>
-3. ⬆️ Pushed 1 commit(s) to [Soujannya16/MyPortfolio](https://github.com/Soujannya16/MyPortfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
