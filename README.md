@@ -33,8 +33,8 @@ Last Updated: Wednesday, June 18th, 2025, 1:07:20 AM
 ## 💻 Tech Stack:
 
 ![git] ![github] ![linux] ![docker] <br/>
-![js] ![ts] ![py] ![go] <br/>
-![flutter] ![react] ![nextjs] ![angular] <br/>
+![js] ![ts] ![py] ![go] ![cpp] <br/>
+![flutter] ![dotnet] ![react] ![nextjs] ![angular] <br/>
 ![tailwindcss] ![sh]
 
 
@@ -71,6 +71,7 @@ Last Updated: Wednesday, June 18th, 2025, 1:07:20 AM
 [sh]: https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash
 [js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [md]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown
+[cpp]: https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus
 
 <!----------------------------------{ frameworks badges }--------------------------------->
 
@@ -79,6 +80,7 @@ Last Updated: Wednesday, June 18th, 2025, 1:07:20 AM
 [angular]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
 [tailwindcss]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [flutter]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter
+[dotnet]: https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet
 
 <!----------------------------------------{ others }--------------------------------------->
 
