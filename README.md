@@ -1,6 +1,23 @@
-<h1 align="center">Hi there, I'm Akash 👋</h1>
+<div>
+<a align="left" href="https://www.linkedin.com/in/akash-mondal-se">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="50" height="40" alt="linkedin logo"/>
+</a>
+<a align="left" href="https://t.me/Akash98Sky">
+  <img src="https://static.cdnlogo.com/logos/t/84/telegram.svg" width="50" height="40" alt="telegram logo"/>
+</a>
+<a align="left" href="mailto:a98mondal@gmail.com">
+  <img src="https://www.svgrepo.com/download/217146/gmail.svg" width="50" height="40" alt="gmail logo"/>
+</a>
 
-### :zap: Recent Activity:
+<img align="right" src="https://komarev.com/ghpvc/?username=Akash98Sky&label=Profile+Views&style=plastic" alt="akash-mondal" />
+</div>
+
+<h2 align="center">Hi there, I'm Akash 👋</h2>
+
+<details>
+<summary>Expand...</summary>
+
+## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Wednesday, June 18th, 2025, 1:07:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
@@ -12,49 +29,63 @@ Last Updated: Wednesday, June 18th, 2025, 1:07:20 AM
 5. ⬆️ Pushed 1 commit(s) to [Sky-POC-Projects/newswave-nextjs](https://github.com/Sky-POC-Projects/newswave-nextjs)<br>
 <!--RECENT_ACTIVITY:end-->
 
----
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash98Sky" alt="Akash98Sky" /> </p>
+## 💻 Tech Stack:
 
-- 🔭 I’m currently working on [.NET](https://learn.microsoft.com/en-us/dotnet/core/introduction) and [Angular](https://angular.io/).
-- 🌱 I’m currently learning ML using [Python](https://www.python.org/).
-- 👯 I’m looking to collaborate on [Flutter](https://flutter.dev/), [React](https://reactjs.org) and [Node.js](https://nodejs.org/).
-- 💬 Ask me about anything related to programming.
-
-
-### Connect with me:
-
-[<img align="left" src="https://static.cdnlogo.com/logos/t/84/telegram.svg" alt="Akash98Sky" width="26px" style="{fill: green;}" />](https://t.me/Akash98Sky)
-[<img align="left" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="akash-mondal-se" width="26px" />](https://www.linkedin.com/in/akash-mondal-se)
-[<img align="left" src="https://www.svgrepo.com/download/217146/gmail.svg" alt="a98mondal" width="26px" />](mailto:a98mondal@gmail.com)
-<br/>
+![git] ![github] ![linux] ![docker] <br/>
+![js] ![ts] ![py] ![go] <br/>
+![flutter] ![react] ![nextjs] ![angular] <br/>
+![tailwindcss] ![sh]
 
 
-### Languages and Tools:
+## 📊 GitHub Stats:
 
-<img align="left" alt="TypeScript" width="26px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" />
-<img align="left" alt="python" width="26px" src="https://github.com/github/explore/raw/main/topics/python/python.png" />
-<img align="left" alt="dart" width="26px" src="https://github.com/github/explore/raw/main/topics/dart/dart.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/github/explore/raw/main/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/github/explore/raw/main/topics/css/css.png" />
+| _Github Stats_ | _Top Langs_  |
+| :------------: | :--------: |
+|    ![stats]    | ![langs] |
 
-<img align="left" alt="Flutter" width="26px" src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png"/>
-<img align="left" alt="Flutter" width="26px" src="https://github.com/github/explore/raw/main/topics/react/react.png"/>
-<img align="left" alt="Flutter" width="26px" src="https://github.com/github/explore/raw/main/topics/angular/angular.png"/>
 
-<img align="left" alt="MySQL" width="26px" src="https://github.com/github/explore/raw/main/topics/postgresql/postgresql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" />
+## Contribution:
 
-<img align="left" alt="Firebase" width="26px" src="https://github.com/github/explore/raw/main/topics/firebase/firebase.png" />
-<img align="left" alt="Firebase" width="26px" src="https://github.com/github/explore/raw/main/topics/azure/azure.png" />
-<img align="left" alt="Firebase" width="26px" src="https://github.com/github/explore/raw/main/topics/aws/aws.png" />
+![graph]
 
-<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/raw/main/topics/linux/linux.png" />
+</details>
 
-<br/>
-<br/>
+<!----------------------------------{ reference links }--------------------------------->
 
----
-![Akash's Github Stats](https://github-readme-stats.vercel.app/api?username=Akash98Sky&show_icons=true&theme=radical)  ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash98Sky&show_icons=true&layout=compact&langs_count=8&theme=radical&exclude_repo=android_kernel_leeco_msm8976,android_device_leeco_s2,proprietary_vendor_leeco,twrp_device_leeco_s2,device_leeco_s2-P,device_leeco_s2-O)
+[stats]: https://github-readme-stats.vercel.app/api?username=Akash98Sky&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false
+[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Akash98Sky&theme=radical&hide_border=false&count_private=false&layout=compact&langs_count=8&hide=html,css,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty&exclude_repo=android_kernel_leeco_msm8976,android_device_leeco_s2,proprietary_vendor_leeco,twrp_device_leeco_s2,device_leeco_s2-P,device_leeco_s2-O,
+[streaks]: https://github-readme-streak-stats.herokuapp.com/?user=Akash98Sky&theme=radical&hide_border=false#gh-light-mode-only
+[quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
+
+<!----------------------------------{ contribution stats }--------------------------------->
+
+[graph]: https://github-readme-activity-graph.vercel.app/graph?username=Akash98Sky&theme=react-dark&hide_border=false&area=true
+
+<!----------------------------------{ language badges }--------------------------------->
+
+[dart]: https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white
+[go]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
+[ts]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[py]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[sh]: https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash
+[js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[md]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown
+
+<!----------------------------------{ frameworks badges }--------------------------------->
+
+[react]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[nextjs]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
+[angular]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
+[tailwindcss]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[flutter]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter
+
+<!----------------------------------------{ others }--------------------------------------->
+
+[docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[linux]: https://img.shields.io/badge/linux-%231793D1.svg?style=for-the-badge&logo=linux&logoColor=white
+[git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[vscode]: https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+
