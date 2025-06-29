@@ -19,14 +19,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 28th, 2025, 12:24:28 PM
+Last Updated: Sunday, June 29th, 2025, 1:15:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
-2. ⬆️ Pushed 4 commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
-3. ⬆️ Pushed 1 commit(s) to [Akash98Sky/flaavn](https://github.com/Akash98Sky/flaavn)<br>
-4. ⬆️ Pushed 2 commit(s) to [Akash98Sky/akash98sky.github.io](https://github.com/Akash98Sky/akash98sky.github.io)<br>
-5. 🎉 Merged PR [#2](https://github.com/Akash98Sky/akash98sky.github.io/pull/2) in [Akash98Sky/akash98sky.github.io](https://github.com/Akash98Sky/akash98sky.github.io)<br>
+1. ⬆️ Pushed 3 commit(s) to [Akash98Sky/akash98sky.github.io](https://github.com/Akash98Sky/akash98sky.github.io)<br>
+2. ⬆️ Pushed 3 commit(s) to [Akash98Sky/akash98sky.github.io](https://github.com/Akash98Sky/akash98sky.github.io)<br>
+3. ⬆️ Pushed 2 commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
+4. ⬆️ Pushed 2 commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
+5. 🎉 Merged PR [#2](https://github.com/Akash98Sky/acm-website/pull/2) in [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
