@@ -19,14 +19,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 1st, 2025, 1:15:53 AM
+Last Updated: Tuesday, July 1st, 2025, 12:27:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
+1. ⬆️ Pushed 1 commit(s) to [Akash98Sky/akash98sky.github.io](https://github.com/Akash98Sky/akash98sky.github.io)<br>
 2. ⬆️ Pushed 1 commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
-3. ⭐ Starred [Olow304/memvid](https://github.com/Olow304/memvid)<br>
-4. ⬆️ Pushed 1 commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
-5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/akash98sky.github.io](https://github.com/Akash98Sky/akash98sky.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
+4. ⭐ Starred [Olow304/memvid](https://github.com/Olow304/memvid)<br>
+5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
