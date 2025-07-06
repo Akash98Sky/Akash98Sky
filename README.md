@@ -19,14 +19,14 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 5th, 2025, 12:24:32 PM
+Last Updated: Sunday, July 6th, 2025, 1:14:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Akash98Sky/akash98sky.github.io](https://github.com/Akash98Sky/akash98sky.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
-3. ⬆️ Pushed 1 commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
-4. ⭐ Starred [Olow304/memvid](https://github.com/Olow304/memvid)<br>
-5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
+1. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+2. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+3. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+4. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
+5. ⬆️ Pushed 1 commit(s) to [Akash98Sky/gemi-bot](https://github.com/Akash98Sky/gemi-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
