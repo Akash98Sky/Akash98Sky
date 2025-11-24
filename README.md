@@ -19,13 +19,13 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 23rd, 2025, 12:23:37 PM
+Last Updated: Monday, November 24th, 2025, 1:10:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Akash98Sky/flow-manager](https://github.com/Akash98Sky/flow-manager)<br>
-2. ⬆️ Pushed undefined commit(s) to [Akash98Sky/flow-manager](https://github.com/Akash98Sky/flow-manager)<br>
-3. ⬆️ Pushed undefined commit(s) to [Akash98Sky/flow-manager](https://github.com/Akash98Sky/flow-manager)<br>
-4. ⬆️ Pushed undefined commit(s) to [Akash98Sky/flow-manager](https://github.com/Akash98Sky/flow-manager)<br>
+1. ⬆️ Pushed undefined commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
+2. ⬆️ Pushed undefined commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
+3. 👍 Approved [#4](https://github.com/Akash98Sky/acm-website/pull/4#pullrequestreview-3497993215) in [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
+4. 👍 Approved [#3](https://github.com/Akash98Sky/acm-website/pull/3#pullrequestreview-3497992940) in [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
 5. ⬆️ Pushed undefined commit(s) to [Akash98Sky/flow-manager](https://github.com/Akash98Sky/flow-manager)<br>
 <!--RECENT_ACTIVITY:end-->
 
