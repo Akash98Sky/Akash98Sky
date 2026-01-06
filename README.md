@@ -19,14 +19,11 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 5th, 2026, 12:32:24 PM
+Last Updated: Tuesday, January 6th, 2026, 1:11:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [pshenok/server-survival](https://github.com/pshenok/server-survival)<br>
 2. ⬆️ Pushed undefined commit(s) to [Akash98Sky/acm-website](https://github.com/Akash98Sky/acm-website)<br>
-3. 💪 Opened PR [#2](undefined) in [Soujannya16/MyPortfolio](https://github.com/Soujannya16/MyPortfolio)<br>
-4. ⬆️ Pushed undefined commit(s) to [Akash98Sky/akash98sky.github.io](https://github.com/Akash98Sky/akash98sky.github.io)<br>
-5. ⭐ Starred [langflow-ai/langflow](https://github.com/langflow-ai/langflow)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
