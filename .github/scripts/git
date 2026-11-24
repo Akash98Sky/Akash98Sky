@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+: "${REAL_GIT:?REAL_GIT must point to the system git executable}"
+
+if [[ "$1" == "commit" ]]; then
+  if "$REAL_GIT" diff --cached --quiet; then
+    echo "::notice::No staged changes; skipping commit."
+    exit 0
+  else
+    status=$?
+    if [[ "$status" -ne 1 ]]; then
+      exit "$status"
+    fi
+  fi
+fi
+
+exec "$REAL_GIT" "$@"

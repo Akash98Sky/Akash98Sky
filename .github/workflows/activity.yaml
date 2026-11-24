@@ -3,8 +3,8 @@ name: Github Activity
 on:
   workflow_dispatch:
   schedule:
-    # Runs every first and 6 hrs.
-    - cron: "0 */12 * * *"
+    # Runs daily at midnight IST (18:30 UTC).
+    - cron: "30 18 * * *"
 
 jobs:
   activity:
@@ -14,6 +14,12 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3.5.2
+
+      - name: Configure no-change commit guard
+        run: |
+          chmod +x .github/scripts/git
+          echo "REAL_GIT=$(command -v git)" >> "$GITHUB_ENV"
+          echo "$GITHUB_WORKSPACE/.github/scripts" >> "$GITHUB_PATH"
 
       - name: Add activity to readme
         uses: Readme-Workflows/recent-activity@v2.4.1
