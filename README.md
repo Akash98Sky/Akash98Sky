@@ -19,11 +19,12 @@
 
 ## :zap: Recent Activity:
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 25th, 2026
+Last Updated: Thursday, November 26th, 2026
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Akash98Sky/auto_job_application](https://github.com/Akash98Sky/auto_job_application)<br>
+1. ⭐ Starred [Soujannya16/naukri-auto-update](https://github.com/Soujannya16/naukri-auto-update)<br>
 2. ⬆️ Pushed undefined commit(s) to [Akash98Sky/auto_job_application](https://github.com/Akash98Sky/auto_job_application)<br>
+3. ⬆️ Pushed undefined commit(s) to [Akash98Sky/auto_job_application](https://github.com/Akash98Sky/auto_job_application)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
